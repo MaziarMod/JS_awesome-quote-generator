@@ -5,4 +5,4 @@ Project:
 - HTML & CSS
 
 URL:
-[live] (https://maziarmod.github.io/JS_awesome-quote-generator/)
+- [live](https://maziarmod.github.io/JS_awesome-quote-generator/)
