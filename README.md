@@ -2,5 +2,7 @@
 
 Project:
 - JavaScript
--HTML & CSS
+- HTML & CSS
 
+URL:
+[live] (https://maziarmod.github.io/JS_awesome-quote-generator/)
